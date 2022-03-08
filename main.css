@@ -45,12 +45,12 @@ nav
 }
 .menu a
 {
-color: #fff;
-text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 .menu a:hover
 {
-color: #0a2b42;
+    color: #0a2b42;
 }
 .categories
 {
