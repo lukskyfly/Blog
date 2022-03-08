@@ -52,3 +52,55 @@ text-decoration: none;
 {
 color: #0a2b42;
 }
+.categories
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    text-align: center;
+    padding: 0;
+}
+h1
+{
+    font-size: 44px;
+    font-weight: 400;
+    color: #39a5f1;
+    margin-bottom: 20px;
+}
+.author
+{
+    display: inline-block;
+    margin-top: 10px;
+}
+figure
+{
+    margin: 8px;
+    padding: 0;
+}
+figcaption
+{
+    margin-top: 8px;
+    padding: 0;
+}
+.author a
+{
+    opacity: 0.9;
+}
+.author a:hover
+{
+    opacity: 1;
+}
+.entries
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    margin-top: 40px;
+}
+#newest
+{
+    background-color: #191d21;
+}
